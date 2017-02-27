@@ -1,0 +1,13 @@
+{
+  "name": "react-env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/megancoyle/react-environment.git",
+  "author": "Megan Coyle <megan@mcoyle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
