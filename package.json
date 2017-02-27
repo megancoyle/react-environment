@@ -5,6 +5,9 @@
   "repository": "https://github.com/megancoyle/react-environment.git",
   "author": "Megan Coyle <megan@mcoyle.com>",
   "license": "MIT",
+  "scripts": {
+   "start": "webpack-dev-server"
+  },
   "dependencies": {
     "html-webpack-plugin": "^2.28.0",
     "path": "^0.12.7",
